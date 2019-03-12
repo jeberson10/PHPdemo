@@ -22,9 +22,9 @@ steps:
     php -version
   displayName: 'Use PHP version $(phpVersion)'
 
-#- script: |
-#    sudo git pull origin master
-#  displayName: 'Copia do conteúdo no GIT'
+- script: |
+    sudo git pull origin master
+  displayName: 'Copia do conteúdo no GIT'
 
 - script: |
     sudo apt-get -y remove composer 
