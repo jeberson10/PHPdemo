@@ -23,9 +23,6 @@ steps:
     php -version
   displayName: 'Use PHP version $(phpVersion)'
 
-- script: phpunit
-  displayName: 'Run tests with phpunit'
-
 - task: ArchiveFiles@2
   inputs:
     rootFolderOrFile: '$(system.defaultWorkingDirectory)'
