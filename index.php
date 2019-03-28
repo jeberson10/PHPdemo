@@ -33,7 +33,7 @@ THE SOFTWARE.
   <a href="contact.php">contact.php</a>
   <a href="index.php">index.php</a>
   <?php
-        echo "hello word"; 
+        echo "hello word - Teste 28/03 12:08"; 
         ?>
     </body>
 </html>
