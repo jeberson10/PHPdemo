@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <!--
 The MIT License
 
@@ -33,7 +33,7 @@ THE SOFTWARE.
   <a href="contact.php">contact.php</a>
   <a href="index.php">index.php</a>
   <?php
-        echo "hello word - Teste 28/03 12:34"; 
+        echo "hello word - Teste 28/03 17:55"; 
         ?>
     </body>
 </html>
